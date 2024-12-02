@@ -3,7 +3,7 @@ Variants :
 
 1. KD tree: Creaate the construction of tree from 1st row(f1,f2)->Check the 2nd row if less than 1 then place left else right. If f1 of 3rd row is less than f1 of 2 row and then check feature 2 if feature is less than place left side else right side.
 
-2.Ball Tree: Group one after other and finally leads to one group.(refer variants pdf)
+2.Ball Tree: Group one after other and finally leads to one group.(refer KD TREE Ball Tree pdf)
 
 we need to calculate KNN using euclidean/Manhattan etc. if data is continuous
 (New data point for each feature,Feature values for each column)
